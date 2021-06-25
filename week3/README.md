@@ -11,7 +11,7 @@
 3. [13308/주유소](https://www.acmicpc.net/problem/13308) - G1
 
 ### advance   
-1. [1845/K번째 최단경로 찾기](https://www.acmicpc.net/problem/1845) - P5   
+1. [1854/K번째 최단경로 찾기](https://www.acmicpc.net/problem/1854) - P5   
 2. [20136/멀티탭 스케줄링 2](https://www.acmicpc.net/problem/20136) - P5
 
 ## 3. etc
@@ -40,7 +40,7 @@
 
 1. [13308] 주유소 
 	* 각 도시 별 주유소 금액 중 최소를 우선순위 큐에 넣지 않고 이미 지나온 도시 번호를 넣어서 틀렸음
-2. [1845] k번째 최단경로 찾기   
+2. [1854] k번째 최단경로 찾기   
 	* 거리를 저장하는 큐를 우선순위 큐로 하지 않고 k번째 원소에 접근해 답을 찾으려 해서 틀렸음  
 </div>
 </details>
