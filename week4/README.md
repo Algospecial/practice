@@ -16,7 +16,9 @@
 ## 3. etc
 <details>
 <summary>김도은</summary>
-<div markdown="1">       
+<div markdown="1">
+  1. [1486/등산]
+    - 하산하는 경우를 생각해 주지 않아 틀렸다.
 
 </div>
 </details>
